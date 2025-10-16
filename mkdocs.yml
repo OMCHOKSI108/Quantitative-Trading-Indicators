@@ -2,4 +2,5 @@ site_name: TradingView Proprietary Indicators
 site_author: OM CHOKSI
 nav:
   - Home: index.md
+  - Changelog: CHANGELOG.md
 theme: readthedocs
