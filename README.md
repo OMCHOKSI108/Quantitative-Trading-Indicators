@@ -1,4 +1,4 @@
-![Algorithmic Trading Code](https://github.com/OMCHOKSI108/Quantitative-Trading-Indicators/images/macd_volume_weighted.png)
+![Algorithmic Trading Code](https://raw.githubusercontent.com/OMCHOKSI108/Quantitative-Trading-Indicators/refs/heads/master/images/macd_volume_weighted.png)
 
 [![Documentation](https://img.shields.io/badge/docs-mkdocs-blue)](https://OMCHOKSI108.github.io/Quantitative-Trading-Algorithms/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
