@@ -1,9 +1,9 @@
-![Trading Indicators Overview](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+![Algorithmic Trading Code](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
 
-[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue)](https://OMCHOKSI108.github.io/Quantitative-Trading-Indicators/)
+[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue)](https://OMCHOKSI108.github.io/Quantitative-Trading-Algorithms/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-# TradingView Proprietary Indicators
+# Quantitative Trading Algorithms
 
 **Author: OM CHOKSI**
 
