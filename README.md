@@ -9,6 +9,8 @@
 
 This repository contains a comprehensive suite of proprietary technical indicators and trading strategies implemented in Pine Script for TradingView, complemented by Python implementations for quantitative analysis and backtesting. The collection is organized by category, including candlestick patterns, momentum indicators, trend analysis tools, and strategic frameworks designed for systematic trading approaches.
 
+> **Note:** This project is actively maintained. Contributions and feedback are welcome!
+
 ## Python Implementation
 
 The repository includes Python-based implementations of the proprietary indicators, facilitating algorithmic trading, historical backtesting, and automated signal generation. These implementations leverage pandas for data manipulation, numpy for numerical computations, and matplotlib for visualization.
